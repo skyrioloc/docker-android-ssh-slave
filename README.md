@@ -1,4 +1,4 @@
-# Jenkins SSH slave Docker image
+# Jenkins SSH slave Docker image to build Android APK
 
 [`jenkinsci/ssh-slave`](https://hub.docker.com/r/jenkinsci/ssh-slave/)
 
